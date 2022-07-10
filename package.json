@@ -1,6 +1,6 @@
 {
-  "name": "sitemap.js",
-  "version": "1.0.0",
+  "name": "sitemapping",
+  "version": "1.0.1",
   "description": "Powerful yet simple sitemap parser.",
   "main": "index.js",
   "directories": {
@@ -9,7 +9,10 @@
   "scripts": {
     "test": "./node_modules/.bin/jest"
   },
-  "keywords": ["sitemap", "seo"],
+  "keywords": [
+    "sitemap",
+    "seo"
+  ],
   "author": "Saïd Mimouni <sayid.mimouni@gmail.com>",
   "license": "ISC",
   "dependencies": {
