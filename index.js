@@ -26,7 +26,4 @@ const main = async (sitemapURL) => {
   }
 };
 
-(async() => {
-  const urls = await main('https://happymining.fr/sitemap.xml');
-  process.exit();
-})();
+module.exports = main;
