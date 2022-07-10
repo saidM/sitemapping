@@ -1,7 +1,7 @@
 {
   "name": "sitemapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Powerful yet simple sitemap parser.",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -9,8 +9,8 @@
   "scripts": {
     "test": "./node_modules/.bin/jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["sitemap", "seo"],
+  "author": "Saïd Mimouni <sayid.mimouni@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
